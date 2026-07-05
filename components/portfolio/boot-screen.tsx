@@ -8,7 +8,7 @@ const BOOT_LINES = [
   '[ OK ] loading modules: react, next, motion',
   '[ OK ] compiling personality... done',
   '[ OK ] establishing discord uplink',
-  '> launching portfolio v2.0',
+  '[ > ] launching portfolio v1.0',
 ]
 
 export function BootScreen() {
