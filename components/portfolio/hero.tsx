@@ -54,7 +54,7 @@ function CyclingType() {
 
 const stats = [
   { value: '10+', label: 'languages' },
-  { value: '4', label: 'discord bots shipped' },
+  { value: '5', label: 'discord bots shipped' },
   { value: '∞', label: 'uptime mindset' },
 ]
 
