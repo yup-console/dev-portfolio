@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: 'Console — Developer Portfolio',
   description:
     'Console is the portfolio of a developer crafting fast, polished web experiences.',
-  generator: 'v0.app',
+  generator: 'yup-console',
 }
 
 export const viewport: Viewport = {
