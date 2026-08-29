@@ -95,7 +95,7 @@ export function DiscordStatus() {
         <span className="text-foreground">
           <span className="text-primary">$</span> discord --status{' '}
           <span className="text-muted-foreground group-hover:text-primary">
-            iworship.ayush
+            9pbz
           </span>
         </span>
         <span className="truncate text-xs text-muted-foreground">
